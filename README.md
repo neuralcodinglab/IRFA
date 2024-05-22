@@ -8,7 +8,11 @@ _
 
 ## Intro
 In this repository, you will find the following:
+
+
 Source code:
+
+
 - training folder: the `IRFA.py` contains the IRFA model and the loss function. The training loop can be found in `train.py` and the `discriminator.py` contains the architecture for the discriminator.
 - analysis folder: `quantification.ipynb` shows how the reconstructions were quantified and `spatial_IRF.ipny` and `feature_IRF.ipny` how the spatial and feature inverse receptive fields (IRFs) were visualized respectively.
   
